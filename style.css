@@ -1,0 +1,16 @@
+.container{
+    Margin: 0px auto;
+    Background-color: white;
+}
+.submit :hover{
+Background-color: gray;
+}
+.HOME :hover{
+    Background-color: gray;
+}
+.contact me :hover{
+    Background-color: gray;
+}
+.experience :hover{
+    Background-color: gray;
+}
